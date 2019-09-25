@@ -1,0 +1,98 @@
+ul {
+   list-style-type: none;
+     margin: 0;
+      padding: 0;
+       overflow: hidden;
+        background-color: #111;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+   color: #ff6666;
+    text-align: center;
+     padding:18px 14px;
+  
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+html{
+	background-color: #1f1f2e;
+
+}
+
+.fullbackground{ 
+
+ display: block;
+   margin-left: auto;
+    margin-right: 10%;
+     width: 40%;
+      margin-top: -4.3%
+
+
+
+   }
+
+   .lettertype{
+   	font-family: cursive;
+   }
+
+
+.sample{
+  margin-top: 185px; 
+   text-align: center;
+}
+
+input {
+   border-radius: 30px;
+    
+    
+        
+    }
+.soccer{
+    text-align: center;
+}
+
+.ervaring-forum{
+    
+    font-family:Charcoal;
+     
+      border-width: 5px;
+       border-style: dotted;
+        text-align: left;
+        
+}
+  
+                   
+.ervaring-forum:focus-within{   
+  border-color: red;
+    
+}
+    
+
+.voetbal{ 
+margin-left:34%%;
+    text-align: center;
+    
+}
+
+.table table-dark {
+    margin-top: 200px;
+    
+}
+.toernooi{
+    margin-top: 200px;
+}
+
+    
+
+
+
+
+ 
