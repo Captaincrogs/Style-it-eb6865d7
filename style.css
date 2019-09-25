@@ -90,14 +90,12 @@ margin-left:34%%;
 
 th,td{
  border: 5px solid black;   
-    
-    
-
-    
-    
 
 }
-    
+th[scope="row"]
+{
+   position: absolute;
+}
     
     
     
